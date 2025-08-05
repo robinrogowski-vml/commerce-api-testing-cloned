@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/robinrogowski-vml/commerce-api-testing-cloned/
+    type: markup
+
+folders:
+  /products/: /products/default
